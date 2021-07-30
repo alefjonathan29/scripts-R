@@ -1,4 +1,6 @@
 install.packages('dlookr')
+
+#Pacote dlookr 
 library(dlookr)
 #Se não tiver o tidyverse instalado decomente a linha abaixo:
 #install.packages('tidyverse')
