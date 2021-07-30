@@ -21,3 +21,5 @@ dados %>%
 dlookr::eda_paged_report(iris, subtitle = "Iris", 
                          output_file = "EDA2.pdf",output_dir = "./",
                          theme = "blue")
+
+#
