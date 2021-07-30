@@ -4,6 +4,8 @@ x <- c(1:5, 6.9, 7)
 y <- 2^x
 from <- 33
 to <- 110
+
+
 plot(x, y, type="b", xlab="index", ylab="value")
 barplot(value,month~cat, data=dados, ylim=c(0, NA), pch=1, col="red")
 plotpoints(value~month, data=dados, pch=2, col="blue", add=T)
